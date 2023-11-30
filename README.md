@@ -1,6 +1,6 @@
 # Expense_management-system-Automation-cypress
 cypress automation testing script in this repository
-To run this project you need to install Cypress in you OS,
+To run this project you need to install Cypress on you OS,
 
 copy this to your cypress/e2e/ directory
 open command
